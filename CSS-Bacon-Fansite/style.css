@@ -1,0 +1,44 @@
+/***********TAG SELECTORS*********/
+
+h1{
+    font-size: 40pt; 
+    color: red; 
+    
+} 
+
+
+img:hover{
+    background-color: gold;
+}
+
+
+
+/**********************CLASS SELECTORS**********************/
+/*usa um ponto antes*/
+
+.bacon{
+    background-color: green;
+}
+
+.broccoli{
+    background-color: red;
+}
+.circular{ 
+    border-radius: 100%;
+}
+
+/*****************************ID SELECTORS******************************/
+
+#heading{
+    color: blue;
+}
+/*Diferenças: só pode ter um id com o mesmo nome, já classe, pode ter varios
+elementos com a mesma classe
+classe é como um nome, existem várias mias no mundo
+id é como o cpf, só tem uma mia com o meu cpf
+
+Outra diferença é que um elemento pode ter varias classes ao mesmo tempo*/
+
+
+
+
